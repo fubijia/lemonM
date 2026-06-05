@@ -13,7 +13,9 @@
   <iframe
     id="coze-web-sdk"
     src="https://sdk.coze.site"
-    style="width: 100%; height: 100%; border: none;"
+    width="100%"
+    height="600"
+    style="border: none;"
     allow="microphone;camera"
   ></iframe>
 
